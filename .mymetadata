@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="rlzy"
+  id="myeclipse.1305015144437"
+  context-root="/rlzy"
+  j2ee-spec="1.4"
+  archive="rlzy.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
